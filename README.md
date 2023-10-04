@@ -52,10 +52,3 @@ The script requires Message.csv dataset (phase 3)
 		- Random Forest
 	- #### Evaluation 
 		The model's performance can be evaluated using micro and macro average values for precision, recall, and F1-score. Also Subset accuracy and Hamming loss can be used for the multi-label classification.
-
-## Contact
-For questions or feedback, please contact the author.
-- Amulya Reddy Maligireddy (am8735@g.rit.edu), 
-- Ashini Anantharaman (aa9162@g.rit.edu), 
-- Rahul Gowda Kengeri Kiran (rk1087@g.rit.edu), 
-- Victor Peterson (vp4175@g.rit.edu).
